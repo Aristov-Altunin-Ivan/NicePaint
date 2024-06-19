@@ -1,0 +1,15 @@
+C:\Users\ASUS\YandexDisk\КГУ\NicePaint\NicePaint\bin\Debug\netcoreapp3.0\NicePaint.exe
+C:\Users\ASUS\YandexDisk\КГУ\NicePaint\NicePaint\bin\Debug\netcoreapp3.0\NicePaint.deps.json
+C:\Users\ASUS\YandexDisk\КГУ\NicePaint\NicePaint\bin\Debug\netcoreapp3.0\NicePaint.runtimeconfig.json
+C:\Users\ASUS\YandexDisk\КГУ\NicePaint\NicePaint\bin\Debug\netcoreapp3.0\NicePaint.runtimeconfig.dev.json
+C:\Users\ASUS\YandexDisk\КГУ\NicePaint\NicePaint\bin\Debug\netcoreapp3.0\NicePaint.dll
+C:\Users\ASUS\YandexDisk\КГУ\NicePaint\NicePaint\bin\Debug\netcoreapp3.0\NicePaint.pdb
+C:\Users\ASUS\YandexDisk\КГУ\NicePaint\NicePaint\obj\Debug\netcoreapp3.0\NicePaint.csprojAssemblyReference.cache
+C:\Users\ASUS\YandexDisk\КГУ\NicePaint\NicePaint\obj\Debug\netcoreapp3.0\NicePaint.Form1.resources
+C:\Users\ASUS\YandexDisk\КГУ\NicePaint\NicePaint\obj\Debug\netcoreapp3.0\NicePaint.csproj.GenerateResource.cache
+C:\Users\ASUS\YandexDisk\КГУ\NicePaint\NicePaint\obj\Debug\netcoreapp3.0\NicePaint.AssemblyInfoInputs.cache
+C:\Users\ASUS\YandexDisk\КГУ\NicePaint\NicePaint\obj\Debug\netcoreapp3.0\NicePaint.AssemblyInfo.cs
+C:\Users\ASUS\YandexDisk\КГУ\NicePaint\NicePaint\obj\Debug\netcoreapp3.0\NicePaint.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\YandexDisk\КГУ\NicePaint\NicePaint\obj\Debug\netcoreapp3.0\NicePaint.dll
+C:\Users\ASUS\YandexDisk\КГУ\NicePaint\NicePaint\obj\Debug\netcoreapp3.0\NicePaint.pdb
+C:\Users\ASUS\YandexDisk\КГУ\NicePaint\NicePaint\obj\Debug\netcoreapp3.0\NicePaint.genruntimeconfig.cache
